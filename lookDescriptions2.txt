@@ -1,0 +1,38 @@
+
+
+
+There's a jumble of pipes.
+On the ground is a cut up laundry bag.
+
+Even with the flashlight the ceiling is too high to see. There are large mirrors bordering the room.
+There are the remains of an unknown animal on the cutting board. There are miscellaneous items on a small table to your left.
+There is a table nearby.
+The table seems to be set for a large meal, there is nothing else to note.
+There is a ladder going up to the hole.
+There is an empty drawer behind the desk.
+There are some bottles inside.
+There is a nightstand next to the bed.
+
+
+
+There are crates of old items all over the room and a suit of armor in the corner.
+There is a hole in the wall to the west.
+
+if strcmp(itemName, 'crowbar')
+                lookDescriptions{roomNum} = replacementLookDescriptions{roomNum};
+            elseif strcmp(itemName, 'ladder')
+                lookDescriptions{roomNum} = replacementLookDescriptions{roomNum};
+            elseif strcmp(itemName, 'knife')
+                lookDescriptions{roomNum} = replacementLookDescriptions{roomNum};
+            elseif strcmp(itemName, 'letter')
+                descriptions{roomNum} = replacementDescriptions{roomNum};
+                lookDescriptions{roomNum} = replacementLookDescriptions{roomNum};
+            elseif strcmp(itemName, 'key')
+                lookDescriptions{roomNum} = replacementLookDescriptions{roomNum};
+            elseif strcmp(itemName, 'ancient key')
+                lookDescriptions{roomNum} = replacementLookDescriptions{roomNum};
+            elseif strcmp(itemName, 'flashlight')
+                lookDescriptions{roomNum} = replacementLookDescriptions{roomNum};
+            elseif strcmp(itemName, mace)
+                lookDescriptions{roomNum} = replacementLookDescriptions{roomNum};
+            end

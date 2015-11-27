@@ -1,0 +1,19 @@
+There is a door to the south.
+There is a door to the north and a hallway to the south.
+The hallway continues north and south, and there is a door to the east.
+There is a door to the west.
+There is a door to the east.
+There is a door to the west and a hallway to the north. There is also a staircase going upstairs.
+There is a door to the south.
+There is a door to the east.
+There are doors to the east and west, and a staircase going both up and downstairs.
+There is a door to the north and a door to the west.
+There is a hole in the ceiling and a door to the south.
+There is door to the south.
+There is a door to the east.
+There is a door to the west and doors to the north and south.
+There is a door to the north, and the hallway continues east.
+There is a staircase going downstairs, and the hallway continues east and west.
+There is a door to the north, and the halwway continues west.
+There is a hole in the wall to the east.
+There is a hole in the wall to the west.

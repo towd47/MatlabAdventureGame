@@ -1,0 +1,9 @@
+crowbar 4
+stone 5
+ladder 7
+knife 8
+letter 9
+key 12
+ancient_key 13
+flashlight 14
+mace 18
